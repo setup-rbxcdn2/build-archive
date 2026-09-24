@@ -6731,6 +6731,16 @@
 			"GUID": "version-3afcc74cf8b04b5d",
 			"Date": "2026-09-21T17:45:29-07:00",
 			"Version": "0.740.0.7400927"
+		},
+		{
+			"GUID": "version-c792f79abddd41bd",
+			"Date": "2026-09-22T14:50:39-07:00",
+			"Version": "0.740.19.7400931"
+		},
+		{
+			"GUID": "version-c792f79abddd41bd",
+			"Date": "2026-09-22T14:52:10-07:00",
+			"Version": "0.740.19.7400931"
 		}
 	],
 	"Missing": {
